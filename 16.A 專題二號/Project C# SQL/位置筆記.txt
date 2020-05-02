@@ -1,0 +1,3 @@
+C:\Project C# SQL
+
+database丟到文件中的Visual Studio 2013 

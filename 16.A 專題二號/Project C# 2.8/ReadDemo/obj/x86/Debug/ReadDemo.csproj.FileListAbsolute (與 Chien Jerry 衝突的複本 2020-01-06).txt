@@ -1,0 +1,54 @@
+C:\Documents and Settings\maa\Local Settings\Application Data\Temporary Projects\ReadDemo\bin\Debug\ReadDemo.exe
+C:\Documents and Settings\maa\Local Settings\Application Data\Temporary Projects\ReadDemo\bin\Debug\ReadDemo.pdb
+C:\Documents and Settings\maa\Local Settings\Application Data\Temporary Projects\ReadDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\maa\Local Settings\Application Data\Temporary Projects\ReadDemo\obj\x86\Debug\ReadDemo.Form1.resources
+C:\Documents and Settings\maa\Local Settings\Application Data\Temporary Projects\ReadDemo\obj\x86\Debug\ReadDemo.Properties.Resources.resources
+C:\Documents and Settings\maa\Local Settings\Application Data\Temporary Projects\ReadDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\maa\Local Settings\Application Data\Temporary Projects\ReadDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\maa\Local Settings\Application Data\Temporary Projects\ReadDemo\obj\x86\Debug\ReadDemo.exe
+C:\Documents and Settings\maa\Local Settings\Application Data\Temporary Projects\ReadDemo\obj\x86\Debug\ReadDemo.pdb
+C:\Documents and Settings\maa\my documents\visual studio 2010\Projects\ReadDemo\ReadDemo\obj\x86\Debug\ReadDemo.exe
+C:\Documents and Settings\maa\my documents\visual studio 2010\Projects\ReadDemo\ReadDemo\obj\x86\Debug\ReadDemo.pdb
+C:\Documents and Settings\maa\my documents\visual studio 2010\Projects\ReadDemo\ReadDemo\bin\Debug\ReadDemo.exe
+C:\Documents and Settings\maa\my documents\visual studio 2010\Projects\ReadDemo\ReadDemo\bin\Debug\ReadDemo.pdb
+C:\Documents and Settings\maa\my documents\visual studio 2010\Projects\ReadDemo\ReadDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\maa\my documents\visual studio 2010\Projects\ReadDemo\ReadDemo\obj\x86\Debug\ReadDemo.Form1.resources
+C:\Documents and Settings\maa\my documents\visual studio 2010\Projects\ReadDemo\ReadDemo\obj\x86\Debug\ReadDemo.Properties.Resources.resources
+C:\Documents and Settings\maa\my documents\visual studio 2010\Projects\ReadDemo\ReadDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\maa\my documents\visual studio 2010\Projects\ReadDemo\ReadDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\聿均\Desktop\ReadDemo\ReadDemo\ReadDemo\obj\x86\Debug\ReadDemo.exe
+C:\Users\聿均\Desktop\ReadDemo\ReadDemo\ReadDemo\obj\x86\Debug\ReadDemo.pdb
+C:\Users\聿均\Desktop\ReadDemo\ReadDemo\ReadDemo\bin\Debug\ReadDemo.exe
+C:\Users\聿均\Desktop\ReadDemo\ReadDemo\ReadDemo\bin\Debug\ReadDemo.pdb
+C:\Users\聿均\Desktop\ReadDemo\ReadDemo\ReadDemo\obj\x86\Debug\ReadDemo.csprojResolveAssemblyReference.cache
+C:\Users\聿均\Desktop\ReadDemo\ReadDemo\ReadDemo\obj\x86\Debug\ReadDemo.Form1.resources
+C:\Users\聿均\Desktop\ReadDemo\ReadDemo\ReadDemo\obj\x86\Debug\ReadDemo.Properties.Resources.resources
+C:\Users\聿均\Desktop\ReadDemo\ReadDemo\ReadDemo\obj\x86\Debug\ReadDemo.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\ar\1027\ReadDemo\ReadDemo\ReadDemo\obj\x86\Debug\ReadDemo.exe
+C:\Users\admin\Desktop\ar\1027\ReadDemo\ReadDemo\ReadDemo\obj\x86\Debug\ReadDemo.pdb
+C:\Users\admin\Dropbox\專題程式與實作\專題製作\Project C#\ReadDemo\obj\x86\Debug\ReadDemo.exe
+C:\Users\admin\Dropbox\專題程式與實作\專題製作\Project C#\ReadDemo\obj\x86\Debug\ReadDemo.pdb
+C:\Users\admin\Dropbox\專題程式與實作\專題製作\Project C#\ReadDemo\bin\Debug\ReadDemo.exe
+C:\Users\admin\Dropbox\專題程式與實作\專題製作\Project C#\ReadDemo\bin\Debug\ReadDemo.pdb
+C:\Users\admin\Dropbox\專題程式與實作\專題製作\Project C#\ReadDemo\obj\x86\Debug\ReadDemo.csprojResolveAssemblyReference.cache
+C:\Users\admin\Dropbox\專題程式與實作\專題製作\Project C#\ReadDemo\obj\x86\Debug\ReadDemo.Form1.resources
+C:\Users\admin\Dropbox\專題程式與實作\專題製作\Project C#\ReadDemo\obj\x86\Debug\ReadDemo.Properties.Resources.resources
+C:\Users\admin\Dropbox\專題程式與實作\專題製作\Project C#\ReadDemo\obj\x86\Debug\ReadDemo.csproj.GenerateResource.Cache
+C:\Users\聿均\Desktop\Project C#\ReadDemo\obj\x86\Debug\ReadDemo.exe
+C:\Users\聿均\Desktop\Project C#\ReadDemo\obj\x86\Debug\ReadDemo.pdb
+C:\Users\聿均\Desktop\Project C#\ReadDemo\bin\Debug\ReadDemo.exe
+C:\Users\聿均\Desktop\Project C#\ReadDemo\bin\Debug\ReadDemo.pdb
+C:\Users\聿均\Desktop\Project C#\ReadDemo\obj\x86\Debug\ReadDemo.csprojResolveAssemblyReference.cache
+C:\Users\聿均\Desktop\Project C#\ReadDemo\obj\x86\Debug\ReadDemo.Form1.resources
+C:\Users\聿均\Desktop\Project C#\ReadDemo\obj\x86\Debug\ReadDemo.Properties.Resources.resources
+C:\Users\聿均\Desktop\Project C#\ReadDemo\obj\x86\Debug\ReadDemo.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Project C# 28\ReadDemo\obj\x86\Debug\ReadDemo.exe
+C:\Users\admin\Desktop\Project C# 28\ReadDemo\obj\x86\Debug\ReadDemo.pdb
+C:\Users\admin\Desktop\Project C# 28\ReadDemo\bin\Debug\ReadDemo.exe
+C:\Users\admin\Desktop\Project C# 28\ReadDemo\bin\Debug\ReadDemo.pdb
+C:\Users\admin\Desktop\Project C# 28\ReadDemo\obj\x86\Debug\ReadDemo.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Project C# 28\ReadDemo\obj\x86\Debug\ReadDemo.Form1.resources
+C:\Users\admin\Desktop\Project C# 28\ReadDemo\obj\x86\Debug\ReadDemo.Properties.Resources.resources
+C:\Users\admin\Desktop\Project C# 28\ReadDemo\obj\x86\Debug\ReadDemo.csproj.GenerateResource.Cache
+C:\Users\admin\Dropbox\專題程式與實作\專題製作\Project C# 28\ReadDemo\obj\x86\Debug\ReadDemo.exe
+C:\Users\admin\Dropbox\專題程式與實作\專題製作\Project C# 28\ReadDemo\obj\x86\Debug\ReadDemo.pdb

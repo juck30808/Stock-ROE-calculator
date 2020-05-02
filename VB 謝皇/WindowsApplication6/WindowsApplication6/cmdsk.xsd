@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="cmdsk" targetNamespace="http://tempuri.org/cmdsk.xsd" xmlns:mstns="http://tempuri.org/cmdsk.xsd" xmlns="http://tempuri.org/cmdsk.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="cmdsk" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="cmdsk" msprop:Generator_UserDSName="cmdsk">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Table" msprop:Generator_TableClassName="TableDataTable" msprop:Generator_TableVarName="tableTable" msprop:Generator_TablePropName="Table" msprop:Generator_RowDeletingName="TableRowDeleting" msprop:Generator_RowChangingName="TableRowChanging" msprop:Generator_RowEvHandlerName="TableRowChangeEventHandler" msprop:Generator_RowDeletedName="TableRowDeleted" msprop:Generator_UserTableName="Table" msprop:Generator_RowChangedName="TableRowChanged" msprop:Generator_RowEvArgName="TableRowChangeEvent" msprop:Generator_RowClassName="TableRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="HP" msprop:Generator_ColumnVarNameInTable="columnHP" msprop:Generator_ColumnPropNameInRow="HP" msprop:Generator_ColumnPropNameInTable="HPColumn" msprop:Generator_UserColumnName="HP" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="MP" msprop:Generator_ColumnVarNameInTable="columnMP" msprop:Generator_ColumnPropNameInRow="MP" msprop:Generator_ColumnPropNameInTable="MPColumn" msprop:Generator_UserColumnName="MP" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="招式" msprop:Generator_ColumnVarNameInTable="column招式" msprop:Generator_ColumnPropNameInRow="招式" msprop:Generator_ColumnPropNameInTable="招式Column" msprop:Generator_UserColumnName="招式">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="注解" msprop:Generator_ColumnVarNameInTable="column注解" msprop:Generator_ColumnPropNameInRow="注解" msprop:Generator_ColumnPropNameInTable="注解Column" msprop:Generator_UserColumnName="注解">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="屬" msprop:Generator_ColumnVarNameInTable="column屬" msprop:Generator_ColumnPropNameInRow="屬" msprop:Generator_ColumnPropNameInTable="屬Column" msprop:Generator_UserColumnName="屬">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="倍率" msprop:Generator_ColumnVarNameInTable="column倍率" msprop:Generator_ColumnPropNameInRow="倍率" msprop:Generator_ColumnPropNameInTable="倍率Column" msprop:Generator_UserColumnName="倍率" type="xs:int" minOccurs="0" />
+              <xs:element name="固傷" msprop:Generator_ColumnVarNameInTable="column固傷" msprop:Generator_ColumnPropNameInRow="固傷" msprop:Generator_ColumnPropNameInTable="固傷Column" msprop:Generator_UserColumnName="固傷" type="xs:int" minOccurs="0" />
+              <xs:element name="次數" msprop:Generator_ColumnVarNameInTable="column次數" msprop:Generator_ColumnPropNameInRow="次數" msprop:Generator_ColumnPropNameInTable="次數Column" msprop:Generator_UserColumnName="次數" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
