@@ -1,0 +1,12 @@
+C:\Users\Jerry\Documents\GitHub\VBA-Jerry\16.A 專題一號\WindowsApplication3\bin\Debug\WindowsApplication3.exe.config
+C:\Users\Jerry\Documents\GitHub\VBA-Jerry\16.A 專題一號\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+C:\Users\Jerry\Documents\GitHub\VBA-Jerry\16.A 專題一號\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+C:\Users\Jerry\Documents\GitHub\VBA-Jerry\16.A 專題一號\WindowsApplication3\bin\Debug\WindowsApplication3.xml
+C:\Users\Jerry\Documents\GitHub\VBA-Jerry\16.A 專題一號\WindowsApplication3\obj\Debug\WindowsApplication3.vbprojAssemblyReference.cache
+C:\Users\Jerry\Documents\GitHub\VBA-Jerry\16.A 專題一號\WindowsApplication3\obj\Debug\WindowsApplication3.Form1.resources
+C:\Users\Jerry\Documents\GitHub\VBA-Jerry\16.A 專題一號\WindowsApplication3\obj\Debug\WindowsApplication3.Resources.resources
+C:\Users\Jerry\Documents\GitHub\VBA-Jerry\16.A 專題一號\WindowsApplication3\obj\Debug\WindowsApplication3.vbproj.GenerateResource.cache
+C:\Users\Jerry\Documents\GitHub\VBA-Jerry\16.A 專題一號\WindowsApplication3\obj\Debug\WindowsApplication3.vbproj.CoreCompileInputs.cache
+C:\Users\Jerry\Documents\GitHub\VBA-Jerry\16.A 專題一號\WindowsApplication3\obj\Debug\WindowsApplication3.exe
+C:\Users\Jerry\Documents\GitHub\VBA-Jerry\16.A 專題一號\WindowsApplication3\obj\Debug\WindowsApplication3.xml
+C:\Users\Jerry\Documents\GitHub\VBA-Jerry\16.A 專題一號\WindowsApplication3\obj\Debug\WindowsApplication3.pdb
